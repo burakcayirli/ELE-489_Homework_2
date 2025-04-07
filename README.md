@@ -46,8 +46,3 @@ pip install numpy pandas matplotlib scikit-learn seaborn
 3. Run each cell step-by-step.
 4. The best model will be trained and evaluated automatically.
 5. Visual outputs include the decision tree and feature importance plot.
-
-## Notes
-
-- Make sure the dataset has been properly preprocessed (e.g., no missing values).
-- Adjust column names and paths in the notebook if needed.
